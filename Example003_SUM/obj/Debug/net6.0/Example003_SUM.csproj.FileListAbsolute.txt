@@ -1,0 +1,15 @@
+/home/vildan/Desktop/GIT/C#/Example003_SUM/bin/Debug/net6.0/Example003_SUM
+/home/vildan/Desktop/GIT/C#/Example003_SUM/bin/Debug/net6.0/Example003_SUM.deps.json
+/home/vildan/Desktop/GIT/C#/Example003_SUM/bin/Debug/net6.0/Example003_SUM.runtimeconfig.json
+/home/vildan/Desktop/GIT/C#/Example003_SUM/bin/Debug/net6.0/Example003_SUM.dll
+/home/vildan/Desktop/GIT/C#/Example003_SUM/bin/Debug/net6.0/Example003_SUM.pdb
+/home/vildan/Desktop/GIT/C#/Example003_SUM/obj/Debug/net6.0/Example003_SUM.csproj.AssemblyReference.cache
+/home/vildan/Desktop/GIT/C#/Example003_SUM/obj/Debug/net6.0/Example003_SUM.GeneratedMSBuildEditorConfig.editorconfig
+/home/vildan/Desktop/GIT/C#/Example003_SUM/obj/Debug/net6.0/Example003_SUM.AssemblyInfoInputs.cache
+/home/vildan/Desktop/GIT/C#/Example003_SUM/obj/Debug/net6.0/Example003_SUM.AssemblyInfo.cs
+/home/vildan/Desktop/GIT/C#/Example003_SUM/obj/Debug/net6.0/Example003_SUM.csproj.CoreCompileInputs.cache
+/home/vildan/Desktop/GIT/C#/Example003_SUM/obj/Debug/net6.0/Example003_SUM.dll
+/home/vildan/Desktop/GIT/C#/Example003_SUM/obj/Debug/net6.0/refint/Example003_SUM.dll
+/home/vildan/Desktop/GIT/C#/Example003_SUM/obj/Debug/net6.0/Example003_SUM.pdb
+/home/vildan/Desktop/GIT/C#/Example003_SUM/obj/Debug/net6.0/Example003_SUM.genruntimeconfig.cache
+/home/vildan/Desktop/GIT/C#/Example003_SUM/obj/Debug/net6.0/ref/Example003_SUM.dll
